@@ -1,0 +1,9 @@
+go 1.19
+
+use (
+	.
+	./libs/add
+	./libs/divide
+	./libs/multiply
+	./libs/subtract
+)
